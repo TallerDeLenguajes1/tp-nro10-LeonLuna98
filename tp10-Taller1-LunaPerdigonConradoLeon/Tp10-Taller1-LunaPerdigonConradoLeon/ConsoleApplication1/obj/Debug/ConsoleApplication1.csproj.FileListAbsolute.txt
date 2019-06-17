@@ -1,0 +1,8 @@
+E:\tp10-Taller1-LunaPerdigonConradoLeon\Tp10-Taller1-LunaPerdigonConradoLeon\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\tp10-Taller1-LunaPerdigonConradoLeon\Tp10-Taller1-LunaPerdigonConradoLeon\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\tp10-Taller1-LunaPerdigonConradoLeon\Tp10-Taller1-LunaPerdigonConradoLeon\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\tp10-Taller1-LunaPerdigonConradoLeon\Tp10-Taller1-LunaPerdigonConradoLeon\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\tp10-Taller1-LunaPerdigonConradoLeon\Tp10-Taller1-LunaPerdigonConradoLeon\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+D:\tp10-Taller1-LunaPerdigonConradoLeon\Tp10-Taller1-LunaPerdigonConradoLeon\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\tp10-Taller1-LunaPerdigonConradoLeon\Tp10-Taller1-LunaPerdigonConradoLeon\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\tp10-Taller1-LunaPerdigonConradoLeon\Tp10-Taller1-LunaPerdigonConradoLeon\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
